@@ -1,0 +1,2 @@
+# DogecoinP2PoolVMWare
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/952768dfbb794658819e2168a5733f00)](https://www.codacy.com/app/PartTimeLegend/DogecoinP2PoolVMWare?utm_source=github.com&utm_medium=referral&utm_content=P2PoolOnPi/DogecoinP2PoolVMWare&utm_campaign=badger)
